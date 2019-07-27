@@ -1,0 +1,84 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #e84efc; 
+}
+
+h1{ 
+	text-align: center;
+	text-decoration: underline;  
+}
+
+h3{
+ 
+	font-style: italic; 
+}
+
+#calculator {
+	height: 400px;
+	width: auto; 	
+}
+
+#calcleft{ 
+	float: left; 
+	margin-top: 50px;
+	margin-left: 50px; 
+	
+}
+
+#calcright{ 
+	font-size: 20px;  
+	float: right; 
+	margin-top: 200px; 
+	margin-right: 200px; 
+	padding: 10px; 
+	border: 2px; 
+	border-style: dotted;
+	border-color: black;  
+}
+
+a:link {
+	color: #ffffff; 
+  	text-decoration: none;
+}
+
+a:hover {
+  color: black; 
+  font-weight: bold;  
+  text-decoration: none;
+}
+
+#home{
+	font-size: 20px; 
+
+}
+
+
+.calu{
+	margin: 100px; 
+	text-align: center; 
+}
+
+.divide{
+	text-align: center; 
+}
+
+
+#numSize{
+	font-size: 100px; 
+	font-style: italic; 
+}
+
+#numSizeDivide{
+	font-size: 50px; 
+	font-style: italic; 
+}
+
+#madlib{
+	float: right;
+	margin-right: 300px;  
+}
+#original{
+	margin-left: 300px; 
+}
+
